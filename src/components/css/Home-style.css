@@ -1,0 +1,21 @@
+
+  .imga{
+    height: 15rem;
+    object-fit: cover; 
+  }
+ 
+
+.slider {
+    display: flex;
+    /* overflow-x: ; Allow horizontal scrolling */
+    /* width: 100%; */
+     /* Set a specific height for the container */
+  }
+  
+  .card {
+    height: 28rem;
+    /* width: 8rem  !important; */
+    margin-right: 5px; /* Reduced margin between cards */
+  }
+
+  

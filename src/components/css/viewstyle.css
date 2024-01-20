@@ -1,0 +1,11 @@
+.fitimg{
+    object-fit: contain;
+    height: 100%;
+}
+.sec1,sec2{
+    height: 100%;
+}
+.cardd{
+    display: flex;
+    height: 30rem;
+}
